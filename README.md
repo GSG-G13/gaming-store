@@ -1,2 +1,0 @@
-# gaming-store
-gaming-store

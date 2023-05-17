@@ -1,0 +1,43 @@
+.data{
+  position: absolute;
+  top: 180px;
+  max-width: 100%;
+  color: #fff;
+  width: 100%;
+  min-height: 100vh;
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+  gap: 25px
+}
+
+.description{
+  min-height: 80px;
+  padding: 10px;
+}
+
+.repoDiv{
+  padding: 15px;
+  border: 1px solid #979797;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+
+}
+.link{
+  display: flex;
+  justify-content: space-between;
+  padding: 5px;
+}
+.link a{
+  color: #2F81F7;
+  font-weight: bold;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+.game-info{
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+}
+
