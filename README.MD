@@ -8,8 +8,8 @@
 ## Installation
 
 - In any folder, open your terminal
-- write git clone https://github.com/HamdyPs/reddit.git
-- Then cd reddit
+- write git clone https://github.com/GSG-G13/gaming-store.git
+- Then cd gaming-store
 - run npm i
 - run npm run dev
 - open http://localhost:3000/ in your browser
